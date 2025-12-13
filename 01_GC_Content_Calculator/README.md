@@ -3,7 +3,7 @@
 (https://colab.research.google.com/github/satnaam05/bioinformatics-portfolio/blob/main/01_GC_Content_Calculator/GC_Content_Calculator.ipynb)
 
 ## bioinformatics-portfolio
-Beginner-friendly bioinformatics projects using Python and Jupyter
+Beginner-friendly bioinformatics projects using Python and Google Colab
 ## GC Content Calculator
 
 This project calculates the GC percentage of a DNA sequence using Python.
