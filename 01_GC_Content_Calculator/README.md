@@ -19,7 +19,7 @@ G (Guanine) or C (Cytosine). It is commonly used in genomics and molecular biolo
 
 ## Tools Used
 - Python
-- Jupyter Notebook
+- Google Colab
 
 ## Status
 Completed
